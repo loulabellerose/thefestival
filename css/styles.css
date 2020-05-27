@@ -1,0 +1,47 @@
+.p{
+    font-size: 10;
+}
+
+.centre {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  nav.navbar {
+    border-top: 4px solid #276cda;
+    margin-bottom: 1rem;
+  }
+  .navbar-item.brand-text {
+    font-weight: 300;
+  }
+  .navbar-item, .navbar-link {
+    font-size: 14px;
+    font-weight: 700;
+  }
+
+  .card {
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.18);
+    margin-bottom: 2rem;
+  }
+  .card-header-title {
+    color: #8F99A3;
+    font-weight: 400;
+  }
+
+  .card .content {
+    font-size: 14px;
+  }
+  .card-footer-item {
+    font-size: 14px;
+    font-weight: 700;
+    color: #8F99A3;
+  }
+/*
+  .card-table .table {
+    margin-bottom: 0;
+  }
+  .events-card .card-table {
+    /*max-height: 250px;
+    overflow-y: scroll;
+  }*/

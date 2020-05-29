@@ -1,4 +1,4 @@
-#thefestival
+# thefestival
 
 Highly detailed brief required a responsive front-end site to market the festival, with a back-end for the site administrator to manage content, stage timetables etc and a separate back-end for festival artists to manage their information and bio.
 
